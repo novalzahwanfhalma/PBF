@@ -35,4 +35,9 @@ Terdapat perbedaan dengan tampilan sebelumnya yakni: warna background berubah me
 Soal 6
 ![Soal-6](img/soal-6.png)
 
-Untuk sejauh ini yang saya lihat terjadi penyederhanaan pada page.tsx dikarenakan terjadi pembagian component pada ../component. Perubahan tampilan pada gambar yang di bawah dengan hanya merubah dari size s ke size b. 
+Untuk sejauh ini yang saya lihat terjadi penyederhanaan pada page.tsx dikarenakan terjadi pembagian component pada ../component. Perubahan tampilan pada gambar yang di bawah dengan hanya merubah ukuran gambar.
+
+Soal 7,8, dan 9
+![Soal-7,8,9](img/soal-7,8,9.png)
+
+Perlunya keterhubungan antar sesama bagian agar componen bisa terpangil dengan maksimal tanpa ada kendala. Pada tampilan akhir ini ada tambahan 3 foto ilmuan beserta bio-nya pada sudut kiri secara berurutan.
