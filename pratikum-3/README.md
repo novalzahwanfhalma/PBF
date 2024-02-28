@@ -31,3 +31,8 @@ Soal 5
 ![Soal-5](img/soal-5.png)
 
 Terdapat perbedaan dengan tampilan sebelumnya yakni: warna background berubah menjadi hitam, ada penambahan 1 foto yang disertai nama dan deskripsi orang yg berada di foto yg terletak di bawah 3 foto yang sebelumnya, dan terdapat juga garis putih pemisah.
+
+Soal 6
+![Soal-6](img/soal-6.png)
+
+Untuk sejauh ini yang saya lihat terjadi penyederhanaan pada page.tsx dikarenakan terjadi pembagian component pada ../component. Perubahan tampilan pada gambar yang di bawah dengan hanya merubah dari size s ke size b. 
