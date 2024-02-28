@@ -14,7 +14,7 @@ images: {
   };
 
   di next.config.mjs
-  
+
 Pratikum 2 : Mengimpor dan mengekpor komponen
 
 Soal 2
@@ -26,3 +26,8 @@ Pratikum 3 : Menggunakan JSX dinamis
 
 Soal 4
 ![Soal-4](img/soal-4.png)
+
+Soal 5
+![Soal-5](img/soal-5.png)
+
+Terdapat perbedaan dengan tampilan sebelumnya yakni: warna background berubah menjadi hitam, ada penambahan 1 foto yang disertai nama dan deskripsi orang yg berada di foto yg terletak di bawah 3 foto yang sebelumnya, dan terdapat juga garis putih pemisah.
