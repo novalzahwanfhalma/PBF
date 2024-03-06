@@ -1,3 +1,4 @@
+"use client";
 import Tombol_l from "@/components/button";
 
 export default function Home() {
