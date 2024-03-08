@@ -15,3 +15,17 @@ Dikarenakan Fullname membuat redudan dan bisa membuat error.
 Pratikum 6 - langkah 1
 
 Terdapat dekripsi tentang Almaty, Kazakhstan dan jika di tekan "Tampilkan" maka akan tertanpil Etomology terkait Almaty, Kazakhstan.
+
+Pratikum 6 - langkah 2
+
+#Final
+![prak-6](img/prak-6.png)
+
+
+Pratikum 6 - Soal 1
+
+to.email digunakan sebagai kunci karena diasumsikan bahwa setiap alamat email dalam kontak (contact) to adalah unik.
+
+Pratikum 6 - Soal 2
+
+Fungsi dari prop key adalah untuk memastikan identifikasi yang unik di antara elemen mana yang berubah.
