@@ -1,7 +1,6 @@
 "use client";
 import Tombol_l, { Tombol_2, Tombol_3 } from "@/components/button";
-import Form from "@/components/form";
-import Form_2 from "@/components/form";
+import Form, { Form_2 } from "@/components/form";
 import Gallery from "@/components/gallery";
 
 export default function Home() {
