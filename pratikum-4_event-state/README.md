@@ -11,3 +11,7 @@ Di fungsi "Form_2" berisikan dua form inputan yaitu inputan nama depan dan inpun
 Pratikum 5 - Soal 2
 
 Dikarenakan Fullname membuat redudan dan bisa membuat error.
+
+Pratikum 6 - langkah 1
+
+Terdapat dekripsi tentang Almaty, Kazakhstan dan jika di tekan "Tampilkan" maka akan tertanpil Etomology terkait Almaty, Kazakhstan.

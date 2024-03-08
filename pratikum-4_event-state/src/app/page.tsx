@@ -2,6 +2,7 @@
 import Tombol_l, { Tombol_2, Tombol_3 } from "@/components/button";
 import Form, { Form_2 } from "@/components/form";
 import Gallery from "@/components/gallery";
+import Accordion from "@/components/accordion";
 
 export default function Home() {
 return (
@@ -23,6 +24,8 @@ return (
   <Form />
   <br></br>
   <Form_2 />
+  <br></br>
+  <Accordion />
   </>
 );
 }
