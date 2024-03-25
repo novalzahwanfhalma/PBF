@@ -6,7 +6,7 @@ export const naikTurunSlice = createSlice({
         totalCounter: 0// counter yang menghitung naik/turun
     },
     reducers: {
-        tambahCoounter(state) {
+        tambahCounter(state) {
             state.totalCounter += 1;
         },
         kurangCounter(state){
